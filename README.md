@@ -243,7 +243,7 @@ P3=SI
 
 ### Checklist
 
-- [ ] Todos los `TODO` completados en los archivos `.l`
+- [✓] Todos los `TODO` completados en los archivos `.l`
 - [✓] Preguntas P1, P2 y P3 respondidas en este `README.md`
-- [ ] `make test` pasa localmente
-- [ ] Todo pusheado a `main`
+- [✓] `make test` pasa localmente
+- [✓] Todo pusheado a `main`
